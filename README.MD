@@ -28,5 +28,5 @@ The app empowers business owners to efficiently manage their inventories, items,
 ## Products
 
 <a href="https://play.google.com/store/apps/details?id=com.mostedge.mobile">
-  <img src="/google-play.png" alt="Google Play Store" width="300" height="200" />
+  <img src="/google-play.png" alt="Google Play Store" width="200" />
 </a>
