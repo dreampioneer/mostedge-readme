@@ -1,4 +1,22 @@
-# MOSTEDGE
+<h1 align='center'> MOSTEDGE </h1>
+
+<p align="center">
+  <a href="https://apps.apple.com/th/app/mostedge/id6450421172">
+    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.mostedge.mobile">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#introduction">INTRODUCTION</a> •
+  <a href="#challenge">CHALLENGE</a> •
+  <a href="#solution">SOLUTION</a> •
+  <a href="#results">RESULTS</a> •
+  <a href="#technologies-used">TECHNOLOGIES USED</a> •
+  <a href="#youtube-video">Youtube Video</a>
+</p>
 
 ## INTRODUCTION
 
@@ -24,16 +42,3 @@ The app empowers business owners to efficiently manage their inventories, items,
 ## Youtube Video
 
 [![Watch the video](/mostedge.jpg)](https://www.youtube.com/watch?v=wr0Ar-FYKJY)
-
-## Download the App
-
-<div style='display: flex; gap: 10px; align-items: center;'>
-
-<a href="https://play.google.com/store/apps/details?id=com.mostedge.mobile">
-  <img src="./google-play.png" alt="Google Play Store" width="200" />
-</a>
-
-<a href="https://apps.apple.com/th/app/mostedge/id6450421172">
-  <img src="./app-store.png" alt="App Store" width="165" />
-</a>
-</div>
