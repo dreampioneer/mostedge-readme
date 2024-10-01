@@ -25,15 +25,15 @@ The app empowers business owners to efficiently manage their inventories, items,
 
 [![Watch the video](/mostedge.jpg)](https://www.youtube.com/watch?v=wr0Ar-FYKJY)
 
-## Products
+## Download the App
 
 <div style='display: flex; gap: 10px; align-items: center;'>
 
 <a href="https://play.google.com/store/apps/details?id=com.mostedge.mobile">
-  <img src="/google-play.png" alt="Google Play Store" width="200" />
+  <img src="./google-play.png" alt="Google Play Store" width="200" />
 </a>
 
 <a href="https://apps.apple.com/th/app/mostedge/id6450421172">
-  <img src="/app-store.png" alt="App Store" width="170" />
+  <img src="./app-store.png" alt="App Store" width="165" />
 </a>
 </div>
