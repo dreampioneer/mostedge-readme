@@ -15,7 +15,7 @@
   <a href="#solution">SOLUTION</a> •
   <a href="#results">RESULTS</a> •
   <a href="#technologies-used">TECHNOLOGIES USED</a> •
-  <a href="#youtube-video">Youtube Video</a>
+  <a href="#youtube-video">YOUTUBE VIDEO</a>
 </p>
 
 ## INTRODUCTION
@@ -39,6 +39,6 @@ The app empowers business owners to efficiently manage their inventories, items,
 - <b>Library</b>: Highcharts, Fabric.js
 - <b>Platforms</b>: Android, iOS
 
-## Youtube Video
+## YOUTUBE VIDEO
 
 [![Watch the video](/mostedge.jpg)](https://www.youtube.com/watch?v=wr0Ar-FYKJY)
