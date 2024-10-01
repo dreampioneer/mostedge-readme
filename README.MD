@@ -4,37 +4,37 @@
 </div>
 
 <div align="center">
-<a href="https://ionicframework.com/">
-<img alt="NPM Version" src="https://img.shields.io/npm/v/%40ionic%2Fangular?style=flat-square&label=Ionic%2FAngular&color=%230099ff">
-</a>
-<a href="https://capacitorjs.com/">
-<img alt="NPM Version" src="https://img.shields.io/npm/v/%40capacitor%2Fcore?style=flat-square&label=Capacitor&color=%23ffff66" >
-</a>
-<a href="https://www.highcharts.com/">
-<img alt="NPM Version" src="https://img.shields.io/npm/v/highcharts?style=flat-square&label=High%20Chars&color=%23ffccff" >
-</a>
-<a href="http://fabricjs.com/">
-<img alt="NPM Version" src="https://img.shields.io/npm/v/fabric?style=flat-square&label=Fabricjs&color=%23ff9900" >
-</a>
+  <a href="https://ionicframework.com/">
+    <img alt="NPM Version" src="https://img.shields.io/npm/v/%40ionic%2Fangular?style=flat-square&label=Ionic%2FAngular&color=%230099ff">
+  </a>
+  <a href="https://capacitorjs.com/">
+    <img alt="NPM Version" src="https://img.shields.io/npm/v/%40capacitor%2Fcore?style=flat-square&label=Capacitor&color=%23ffff66" >
+  </a>
+  <a href="https://www.highcharts.com/">
+    <img alt="NPM Version" src="https://img.shields.io/npm/v/highcharts?style=flat-square&label=High%20Chars&color=%23ffccff" >
+  </a>
+  <a href="http://fabricjs.com/">
+    <img alt="NPM Version" src="https://img.shields.io/npm/v/fabric?style=flat-square&label=Fabricjs&color=%23ff9900" >
+  </a>
 </div>
-
-<p align="center">
+<br>
+<div align="center">
   <a href="https://apps.apple.com/th/app/mostedge/id6450421172">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.mostedge.mobile">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
-</p>
-
-<p align="center">
+</div>
+<br>
+<div align="center">
   <a href="#introduction">INTRODUCTION</a> •
   <a href="#challenge">CHALLENGE</a> •
   <a href="#solution">SOLUTION</a> •
   <a href="#results">RESULTS</a> •
   <a href="#technologies-used">TECHNOLOGIES USED</a> •
   <a href="#youtube-video">YOUTUBE VIDEO</a>
-</p>
+</div>
 
 ## INTRODUCTION
 
